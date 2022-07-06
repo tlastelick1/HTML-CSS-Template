@@ -1,0 +1,84 @@
+img {
+    border-radius: 8%;
+}
+
+h1 {
+    font-family: "Ariel Black", sans-serif;
+    font-size: 4.5em;
+    letter-spacing: -1px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-family: courier;
+}
+
+p {
+    font-family: georgia;
+}
+
+hr {
+    border: 1px solid black;
+}
+
+.shadow {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 5px darkblue;
+    font-size: 1.5em;
+    padding-bottom: 1em;
+}
+
+.tableHeadings {
+    text-decoration: bold;
+    font-size: 1.25em;
+}
+
+.money {
+    color: hsla(110, 94%, 50%, 0.774);
+}
+
+table, th, td, tr {
+    border: 1px solid black;
+    text-align: center;
+  }
+
+table {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+#first6 {
+    width: 40%;
+    float: left;
+    margin: 0;
+    padding-left: 15%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    list-style-type: none;
+}
+
+#second6 {
+    width: 40%;
+    float: right;
+    margin: 0;
+    padding: 0;
+    padding-right: 15%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    list-style-type: none;
+}
+
+#copyright {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#credits {
+    font-size: 1.25em;
+}
